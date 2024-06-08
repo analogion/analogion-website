@@ -1,0 +1,18 @@
+﻿<!--
+document.write("<div style='margin-top:30px; margin-bottom:5px; text-align: center;'>")
+document.write("<img alt='separator image' src='../images/separator.jpg' style='width: 142px; height: 44px;'>")
+document.write("</div>")
+document.write("<div style='text-align: center;'>")
+document.write("<table border='0' align='center' cellspacing='20'>")
+document.write("<tr><td style='width=100px;text-align:center'>")
+document.write("<a href='../html/Authors.html' style='font-size:10pt'>Συγγραφείς (Authors)</a></td>")
+document.write("<td style='width=60px;text-align:center'><a href='../html/Copyright.html' style='font-size:10pt'>Πνευματικά δικαιώματα (Copyright)</td>")
+document.write("<td style='width=60px;text-align:center'><a href='mailto:dimitri@analogion.com' style='font-size:10pt'>Επικοινωνία (Contact)</td>")
+document.write("<td style='width=60px;text-align:center'><a href='../../forum' style='font-size:10pt'> Ψαλτολόγιον (Forum)</td>")
+document.write("<td style='width=60px;text-align:center'><a href='../html/Updates.html' style='font-size:10pt'>Περιεχόμενα (Contents)</td>")
+document.write("<td style='width=60px;text-align:center'><a href='../html/index.html' style='font-size:10pt'>Αρχική σελίδα (Home)</td>")
+document.write("</tr>")
+document.write("</table>")
+document.write("<div style='font-size:8pt'>(c) <a style='font-size:8pt' href='../html/index.html'>analogion.com</a>, 2005-2019, Sydney, Australia</div>")
+document.write("</div>")
+-->

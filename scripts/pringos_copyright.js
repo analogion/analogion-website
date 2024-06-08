@@ -1,0 +1,18 @@
+<!-
+document.write("<div class='text'>")
+document.write("<table border=1 bgcolor=Gainsboro>")
+document.write("<tr>")
+document.write("<td>")
+document.write("Αποσπασματικές ηχογραφήσεις του Κωνσταντίνου Πρίγγου στο Αναλόγιον (analogion.com) δημοσιεύονται με την ")
+document.write("άδεια της <a href='http://www.apostoliki-diakonia.gr'>Αποστολικής Διακονίας της Εκκλησίας ")
+document.write("της Ελλάδος<a /> η οποία κατέχει τα πνευματικά δικαιώματα των έργων και των ηχογραφήσεων ")
+document.write("του Κωνσταντίνου Πρίγγου. Η Αποστολική Διακονία επανεκδίδει σταδιακά τα έργα και τις σωζόμενες ηχογραφήσεις του αειμνήστου Πρωτοψάλτου τα οποία είναι διαθέσιμα από το <a href='http://www.apostoliki-diakonia.gr/bookshop'>βιβλιοπωλείο</a> της και την <a href='http://www.apostoliki-diakonia.gr'>ιστοσελίδα</a> της.<p />")
+document.write("A subset of the recordings of Konstantinos Pringos on Analogion (analogion.com) are published with the permission ")
+document.write("of <a href='http://www.apostoliki-diakonia.gr'>Apostoliki Diakonia of the Church of ")
+document.write("Greece</a> who are the owners of the copyright of the works and recordings ")
+document.write("of Konstantinos Pringos. Apostoliki Diakonia are currently re-publishing Pringos' works which are available from its <a href='http://www.apostoliki-diakonia.gr'>website</a>.")
+document.write("</td>")
+document.write("</tr>")
+document.write("</table>")
+document.write("</div>")
+-->
