@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 document.write("<div><center><table><tr>")
 document.write("<td><a target=top href='../html/index.html'><div class='small-text'>[ Αρχική / Home]</div></a></td>")
 document.write("<td><a href='../html/Psaltai.html'><div class='small-text'>[Ψάλτες / Psaltai]</div></a></td>")
