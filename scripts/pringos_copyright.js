@@ -1,4 +1,4 @@
-<!-
+<!--
 document.write("<div class='text'>")
 document.write("<table border=1 bgcolor=Gainsboro>")
 document.write("<tr>")
